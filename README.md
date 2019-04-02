@@ -1,0 +1,2 @@
+# FairyGUI_Cocos2DX
+基于cocos2dx原生Node和Sprite的FairyGUI实现
