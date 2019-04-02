@@ -1,0 +1,2 @@
+1.利用fairy GUI工程的xml配置，通过自研资源转换工具打包
+2.C++解析成又Node和Sprite包装的组件
